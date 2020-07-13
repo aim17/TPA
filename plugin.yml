@@ -1,0 +1,12 @@
+name: TPA
+main: io.github.aim17.tpa.TPA
+version: 1.0
+commands:
+    tpa:
+        description: Request to teleport to another player.
+        usage: /<command> playername
+
+    tpaccept:
+        description: Accept a teleport request.
+        usage: /<command>
+# https://www.spigotmc.org/wiki/plugin-yml/
